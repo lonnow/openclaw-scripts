@@ -1,0 +1,5 @@
+# OpenClaw elevated权限配置
+openclaw configure --section tools.elevated.enabled --value true
+
+longclaw@LongClawdeMacBook-Air ~ % openclaw configure --section tools.elevated.enabled --value true
+error: unknown option '--value'

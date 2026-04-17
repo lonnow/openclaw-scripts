@@ -1,0 +1,16 @@
+# 临时文件
+*.jpg
+*.png
+*.tmp
+tmp_*
+
+# 日志
+logs/
+
+# OpenClaw 运行时文件
+state/
+clawhub/
+.openclaw/
+
+# macOS
+.DS_Store
